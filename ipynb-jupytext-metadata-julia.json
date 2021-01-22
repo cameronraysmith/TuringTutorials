@@ -1,0 +1,26 @@
+"metadata": {
+  "celltoolbar": "Slideshow",
+  "jupytext": {
+   "cell_metadata_json": true,
+   "formats": "ipynb,md,jl:percent",
+   "notebook_metadata_filter": "all"
+  },
+ "kernelspec": {
+   "display_name": "Julia 1.5.3",
+   "language": "julia",
+   "name": "julia-1.5"
+  },
+  "language_info": {
+   "file_extension": ".jl",
+   "mimetype": "application/julia",
+   "name": "julia",
+   "version": "1.5.3"
+  },
+  "rise": {
+   "scroll": true,
+   "theme": "black"
+  },
+  "toc-autonumbering": true,
+  "toc-showcode": false,
+  "toc-showmarkdowntxt": false
+ }
